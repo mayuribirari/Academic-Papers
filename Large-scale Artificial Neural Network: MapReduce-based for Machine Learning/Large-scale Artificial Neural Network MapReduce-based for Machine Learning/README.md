@@ -1,6 +1,4 @@
-# ENGR-E-516-ECC-Final-Project
-
-### Large-scale Artificial Neural Network: MapReduce-based for Machine Learning
+# Large-scale Artificial Neural Network: MapReduce-based for Machine Learning
 
 ### Project goals:
 
